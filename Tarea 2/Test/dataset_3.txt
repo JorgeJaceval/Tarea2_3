@@ -1,0 +1,10 @@
+vvvvvvvvvvvv,vvvvvvvvvvvv
+tttttttttttt,zzzzzzzzzzzz
+aaaaaaaaaaaa,eeeeeeeeeeee
+ffffffffffff,iiiiiiiiiiii
+bbbbbbbbbbbb,tttttttttttt
+kkkkkkkkkkkk,eeeeeeeeeeee
+mmmmmmmmmmmm,jjjjjjjjjjjj
+pppppppppppp,uuuuuuuuuuuu
+iiiiiiiiiiii,eeeeeeeeeeee
+aaaaaaaaaaaa,llllllllllll
